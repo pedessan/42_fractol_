@@ -1,0 +1,7 @@
+a.out
+*.o
+get.a
+get_next_line.h.gch
+Makefile
+test_txt_files
+main.c

@@ -1,0 +1,5 @@
+devi gestire il caso in cui tipo passi printf(NULL);
+poi printf("ciao%%%");
+poi tutti i casi in cui passi caratteri speciali (non so se funzionerebbe)
+
+
